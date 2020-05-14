@@ -1,2 +1,2 @@
-# SKYE-Revival
-For my old roblox project
+# SKYE-Revival Clients and Stuff
+For my old roblox project called SKYE obviously
